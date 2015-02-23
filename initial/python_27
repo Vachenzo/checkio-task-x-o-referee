@@ -1,0 +1,23 @@
+def referee(game_result):
+    return "D" or "X" or "O"
+
+
+if __name__ == '__main__':
+    # These "asserts" using only for self-checking and not necessary for auto-testing
+    assert referee([
+        "X.O",
+        "XX.",
+        "XOO"]) == "X", "Xs wins"
+    assert referee([
+        "OO.",
+        "XOX",
+        "XOX"]) == "O", "Os wins"
+    assert referee([
+        "OOX",
+        "XXO",
+        "OXX"]) == "D", "Draw"
+    assert referee([
+        "O.X",
+        "XX.",
+        "XOO"]) == "X", "Xs wins again"
+
