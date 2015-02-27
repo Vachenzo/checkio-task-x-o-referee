@@ -1,7 +1,7 @@
-They are moving in line front us! Oh, it's sweet target for our high-velocity gun.
-Maybe we need some line detection.
+The enemy has lined up in our sights! Oh, this makes them a juicy target for our high-velocity gun.
+We'll just have to set up the line detection.
 
-Tic-Tac-Toe, sometimes also known as Xs and Os, is a game for two players (X and O)
+Think back to the game Tic-Tac-Toe, sometimes also known as Xs and Os. This is a game for two players (X and O)
 who take turns marking the spaces in a 3×3 grid.
 The player who succeeds in placing three respective marks 
 in a horizontal, vertical, or diagonal rows (NW-SE and NE-SW) wins the game.
